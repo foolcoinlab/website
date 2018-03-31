@@ -1,4 +1,4 @@
-## FoolCoin Blockchain Fortune Telling, Counting Your "Foolishness"
+## Blockchain Fortune Telling, Counting Your "Foolishness"
 
 English|[中文](README_zh.md)
 

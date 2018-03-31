@@ -2,5 +2,6 @@ theme: jekyll-theme-leap-day
 title : FoolCoin
 tagline: "Blockchain FoolCoin"
 description: >
-  Blockchain Fortune Telling, Counting Your \"Foolishness\", 区块链算命，测算您的『愚气』
-  Happy April Fools' Day
+  Blockchain Fortune Telling, Counting Your "Foolishness"|区块链算命，测算您的『愚气』
+
+production_url : http://foolcoin.one
