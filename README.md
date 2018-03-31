@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## FoolCoin Blockchain Fortune Telling, Counting Your "Foolishness"
 
-You can use the [editor on GitHub](https://github.com/foolcoinlab/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+English|[中文](README_zh.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Token Supply
+1. Initial release: 0
+2. Inflation Issue: According to the measured "Foolishness" increase for each user and the probability of the transfer process
+3. Usage: Send your "Foolishness" to others
 
-### Markdown
+### How to play
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foolcoinlab/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Send your date of birth and gender (male 1, female 0) to the eth address of the smart contract. For example, if you were born on April 01, 1987, 23 minutes 51 seconds, you should send: 0.0001987040123510 (about 0.07$)
+2. The smart contract will automatically calculate your "Foolishness" of this year based on your birthday and gender. The higher the number, the easier it is to do stupid thing and cheated, ranging from 1 to 10,000.
+3. At this time, you need to disperse your "Foolishness" and win good luck, so you should forward FoolCoin to your friends. However, there will be a certain probability of failure in the transfer process. If it fails, you will receive the same amount as the transfer amount. The more you transfer once, the easier it is to fail.
